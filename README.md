@@ -27,6 +27,7 @@ update_config=1
 network={
     ssid="NETWORK-NAME"
     psk="NETWORK-PASSWORD"
+    key_mgmt=WPA-PSK
 }
 ```
 
